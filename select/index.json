@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ぼくらの",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-15T14:53:15.892660Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンインストール(テレビアニメ\"ぼくらの\"Op)",
+      "artist": "石川智晶",
+      "has_synced": true,
+      "path": "select/01_アンインストール(テレビアニメ_ぼくらの_Op)_石川智晶.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくらの",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくらの_Eve.txt"
+    }
+  ]
+}
