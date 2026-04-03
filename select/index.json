@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ぼくらの",
   "base_artist": "Eve",
-  "createdAt": "2026-02-15T14:53:15.892660Z",
+  "createdAt": "2026-04-03T13:52:57.617588Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "Eve",
       "has_synced": false,
       "path": "select/pl_01_ぼくらの_Eve.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ぼくらの",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/localdb_01_ぼくらの_Eve.txt",
+      "repo_name": "exOi_zsOHwM"
     }
   ]
 }
